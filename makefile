@@ -1,1 +1,2 @@
-all: gcc ymir.c -o ymir
+all: 
+	gcc ymir.c -o ymir
